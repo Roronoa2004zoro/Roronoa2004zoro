@@ -5,7 +5,7 @@
 - 📫 How to reach me zawoonaalshibly1@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i will try making a nsfw ai chatbot website support me by trying it
-
+- ♦️ its my first time trying to make a website so i am not that experienced yet i have the will to learn more about it
 <!---
 Roronoa2004zoro/Roronoa2004zoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
